@@ -113,7 +113,7 @@ This project describes the layout you might use if you were making the next hit 
 ```json
 {
     "name": "Sisyphus Simulator",
-    "globIgnorePaths": ["**/*.spec.lua"],
+    "globIgnorePaths": ["**/*.spec.lua", "**/*.spec"],
     "tree": {
         "$className": "DataModel",
 
